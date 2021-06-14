@@ -1,6 +1,6 @@
 {
   "name": "@monorepo/package-1",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "private": true,
   "main": "src/index.tsx",
@@ -12,6 +12,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@monorepo/commons": "^1.1.0"
+    "@monorepo/commons": "^1.1.1"
   }
 }
