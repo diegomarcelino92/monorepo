@@ -41,5 +41,16 @@
     "react-dom": "^17.0.2",
     "styled-components": "^5.3.0"
   },
-  "repository": {"url": "https://github.com/diegomarcelino92/monorepo.git"}
+  "repository": {
+    "url": "https://github.com/diegomarcelino92/monorepo.git"
+  },
+  "changelog": {
+    "labels": {
+      "feat": ":rocket: New Feature",
+      "bug": ":bug: Bug Fix",
+      "doc": ":memo: Documentation",
+      "internal": ":house: Internal",
+      "breaking": ":boom: Breaking Change"
+    }
+  }
 }
