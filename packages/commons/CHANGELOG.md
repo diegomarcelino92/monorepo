@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.2.1 (2021-06-15)</small>
+
+**Note:** Version bump only for package @monorepo/commons
+
+
+
+
+
 # [1.2.0](https://github.com/diegomarcelino92/monorepo/compare/@monorepo/commons@1.1.1...@monorepo/commons@1.2.0) (2021-06-15)
 
 
