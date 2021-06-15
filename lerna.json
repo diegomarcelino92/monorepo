@@ -5,6 +5,7 @@
   "useWorkspaces": true,
   "command": {
     "publish": {
+      "changelogPreset": "lerna-changelog",
       "conventionalCommits": true,
       "message": "chore(release): publish"
     }
