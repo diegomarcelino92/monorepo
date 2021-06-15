@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.2](https://github.com/diegomarcelino92/monorepo/compare/@monorepo/package-2@1.1.1...@monorepo/package-2@1.1.2) (2021-06-15)
+
+
+### Bug Fixes
+
+* **message:** fix a message app ([e9abbff](https://github.com/diegomarcelino92/monorepo/commit/e9abbffd89f34cb22ac9f0f2b6f62f9545651f08))
+
+
+
+
+
 ## [1.1.1](https://github.com/diegomarcelino92/monorepo/compare/@monorepo/package-2@1.1.0...@monorepo/package-2@1.1.1) (2021-06-14)
 
 
