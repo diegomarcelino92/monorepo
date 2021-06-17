@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.6](https://github.com/diegomarcelino92/monorepo/compare/@monorepo/commons@1.2.5...@monorepo/commons@1.2.6) (2021-06-17)
+
+
+### Bug Fixes
+
+* fix message ([0764c76](https://github.com/diegomarcelino92/monorepo/commit/0764c76edc572ee2b224f7ba3eefc9d88f74db70))
+
+
+
+
+
 ## <small>1.2.5 (2021-06-17)</small>
 
 * fix: fix message ([02d51bb](https://github.com/diegomarcelino92/monorepo/commit/02d51bb))
