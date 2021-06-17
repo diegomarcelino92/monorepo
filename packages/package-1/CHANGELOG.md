@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.8](https://github.com/diegomarcelino92/monorepo/compare/@monorepo/package-1@1.1.7...@monorepo/package-1@1.1.8) (2021-06-17)
+
+**Note:** Version bump only for package @monorepo/package-1
+
+
+
+
+
 ## <small>1.1.7 (2021-06-17)</small>
 
 * fix(test): test fix ([a05d705](https://github.com/diegomarcelino92/monorepo/commit/a05d705))
