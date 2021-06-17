@@ -3,7 +3,7 @@
   "version": "1.2.1",
   "description": "",
   "private": true,
-  "main": "lib/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "yarn run build:types && babel --root-mode upward src -d dist --extensions .ts",
     "build:types": "tsc"
