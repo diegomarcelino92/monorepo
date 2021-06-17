@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.2.4 (2021-06-17)</small>
+
+* fix: fix message ([b546775](https://github.com/diegomarcelino92/monorepo/commit/b546775))
+
+
+
+
+
 ## [1.2.3](https://github.com/diegomarcelino92/monorepo/compare/@monorepo/commons@1.2.2...@monorepo/commons@1.2.3) (2021-06-17)
 
 **Note:** Version bump only for package @monorepo/commons
