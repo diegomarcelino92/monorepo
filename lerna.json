@@ -5,7 +5,6 @@
   "useWorkspaces": true,
   "command": {
     "version": {
-      "changeLogPreset": "lerna-changelog",
       "conventionalCommits": true,
       "allowBranches": ["master"]
     }
