@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.1.11 (2021-06-17)</small>
+
+**Note:** Version bump only for package @monorepo/package-1
+
+
+
+
+
 ## <small>1.1.10 (2021-06-17)</small>
 
 **Note:** Version bump only for package @monorepo/package-1
