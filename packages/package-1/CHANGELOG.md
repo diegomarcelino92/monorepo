@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.1.5 (2021-06-17)</small>
+
+* fix(pachage-1): fix a message ([44461a5](https://github.com/diegomarcelino92/monorepo/commit/44461a5))
+
+
+
+
+
 ## <small>1.1.4 (2021-06-15)</small>
 
 **Note:** Version bump only for package @monorepo/package-1
