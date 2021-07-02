@@ -8,20 +8,20 @@ webpackDefault.plugins.push(
     name: 'mfe2',
     filename: 'remoteEntry.js',
     exposes: {
-      './app': './src/app',
+      './app': './src/app'
     },
     shared: {
       react: {
         eager: true,
         singleton: true,
-        requiredVersion: deps.react,
+        requiredVersion: deps.react
       },
       'react-dom': {
         eager: true,
         singleton: true,
-        requiredVersion: deps['react-dom'],
-      },
-    },
+        requiredVersion: deps['react-dom']
+      }
+    }
   })
 );
 
