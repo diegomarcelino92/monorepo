@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.2.8 (2021-07-02)</small>
+
+* fix: teste ([1356b71](https://github.com/diegomarcelino92/monorepo/commit/1356b71))
+* feat(React): import ([3bd6fd9](https://github.com/diegomarcelino92/monorepo/commit/3bd6fd9))
+
+
+
+
+
 ## [1.2.7](https://github.com/diegomarcelino92/monorepo/compare/@monorepo/package-2@1.2.6...@monorepo/package-2@1.2.7) (2021-07-02)
 
 
