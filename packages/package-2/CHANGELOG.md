@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/diegomarcelino92/monorepo/compare/@monorepo/package-2@1.1.4...@monorepo/package-2@1.2.0) (2021-07-02)
+
+
+### Bug Fixes
+
+* **teste:** testando ([e1cf7ef](https://github.com/diegomarcelino92/monorepo/commit/e1cf7ef6d9f2d3e96c44136ab0bca742ccaa8902))
+
+
+### Features
+
+* **test:** testando ([a69bcb1](https://github.com/diegomarcelino92/monorepo/commit/a69bcb1dfd7773a287757c755529890644a6d6c8))
+
+
+
+
+
 ## <small>1.1.4 (2021-06-17)</small>
 
 * fix(test): test fix ([c54a9ad](https://github.com/diegomarcelino92/monorepo/commit/c54a9ad))
