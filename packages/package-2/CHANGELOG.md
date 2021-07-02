@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.2.1 (2021-07-02)</small>
+
+* feature: teste ([b5c5681](https://github.com/diegomarcelino92/monorepo/commit/b5c5681))
+
+
+
+
+
 # [1.2.0](https://github.com/diegomarcelino92/monorepo/compare/@monorepo/package-2@1.1.4...@monorepo/package-2@1.2.0) (2021-07-02)
 
 
