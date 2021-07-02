@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.2.6 (2021-07-02)</small>
+
+* bug: testeee ([bdec231](https://github.com/diegomarcelino92/monorepo/commit/bdec231))
+
+
+
+
+
 ## <small>1.2.5 (2021-07-02)</small>
 
 * bug: testeee ([46410a5](https://github.com/diegomarcelino92/monorepo/commit/46410a5))
