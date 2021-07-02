@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.2.4 (2021-07-02)</small>
+
+* breaking: testeee ([fbde532](https://github.com/diegomarcelino92/monorepo/commit/fbde532))
+
+
+
+
+
 ## <small>1.2.3 (2021-07-02)</small>
 
 * BREAKING CHANGE: testeee ([a66d6d5](https://github.com/diegomarcelino92/monorepo/commit/a66d6d5))
