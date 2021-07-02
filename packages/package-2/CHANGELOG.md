@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.2.2 (2021-07-02)</small>
+
+* BREAKING CHANGE: `extends` key in config file is now used for extending other config files ([c6dce30](https://github.com/diegomarcelino92/monorepo/commit/c6dce30))
+
+
+
+
+
 ## <small>1.2.1 (2021-07-02)</small>
 
 * feature: teste ([b5c5681](https://github.com/diegomarcelino92/monorepo/commit/b5c5681))
