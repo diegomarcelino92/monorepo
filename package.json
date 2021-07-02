@@ -42,11 +42,5 @@
     "react-dom": "^17.0.2",
     "styled-components": "^5.3.0"
   },
-  "changelog": {
-    "labels": {
-      "feature": "New Feature",
-      "bug": "Bug Fix"
-    }
-  },
   "repository": "https://github.com/diegomarcelino92/monorepo"
 }
