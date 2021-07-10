@@ -6,7 +6,10 @@
   "command": {
     "version": {
       "conventionalCommits": true,
-      "allowBranches": ["master"]
+      "allowBranches": ["master"],
+      "createRelease": "github",
+      "exact": true,
+      "message": "chore(release): %s"
     }
   }
 }
